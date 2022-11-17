@@ -1,4 +1,4 @@
-hotel_id, price, stock, city, date, language, mobile, avatar_id, avatar_name, order_requests
+hotel_id,price,stock,city,date,language,mobile,avatar_id,avatar_name,order_requests
 768,286,13,madrid,11,portuguese,0,155051,8HOAWS,1
 126,96,8,madrid,11,portuguese,0,155051,8HOAWS,1
 378,124,0,madrid,11,portuguese,0,155051,8HOAWS,1
